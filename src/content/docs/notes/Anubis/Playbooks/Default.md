@@ -3,8 +3,6 @@ title: Default
 editUrl: false
 ---
 
-Hamish Testing 123
-
 # Set up
 
 ***
