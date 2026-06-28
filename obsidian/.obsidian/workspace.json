@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "612842fd7de65b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8e009b63c9fa50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbeb43a5305f108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anubis/Playbooks/Default.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Default"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6942fe1f998daac",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c29bc824e4c1f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1900d68b9b879382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab1fbddffcafe490",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "170cba45955de121",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9cfdcda53056d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be41ad95103d43b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092ffa1318a76ec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anubis/Playbooks/Default.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Default"
+            }
+          },
+          {
+            "id": "14b9379e3a1993f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anubis/Playbooks/Default.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Default"
+            }
+          },
+          {
+            "id": "cc2b9123df026204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98aeb4514c3a824b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "641dc19a74785236",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anubis/Playbooks/Default.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Default"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4cbeb43a5305f108",
+  "lastOpenFiles": [
+    "Anubis/Demos & Notes/24-06-2026.md",
+    "Anubis/Playbooks/Default.md",
+    "index.html",
+    "_config.yml",
+    "New Text Document.txt",
+    "README.md",
+    "Anubis/Playbooks",
+    "Welcome.md",
+    "Anubis/Demos & Notes",
+    "Mirage/Smokes",
+    "Anubis/Smokes",
+    "Untitled",
+    "Mirage",
+    "Miraeg"
+  ]
+}
