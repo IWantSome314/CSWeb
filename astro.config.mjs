@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 import starlightObsidian, { obsidianSidebarEntries } from 'starlight-obsidian';
 
 export default defineConfig({
-  site: 'https://cs.myonlyfriend.co.uk',
+  site: 'https://cs.hamishhunter.co.uk',
   integrations: [
     starlight({
       plugins: [
