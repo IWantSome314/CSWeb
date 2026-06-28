@@ -1,40 +1,45 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-#template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: CS Strats
+description: Smokes, lineups, and strats for the boys.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: Smokes, lineups, and strats. All in one place.
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Mirage
+      link: /notes/mirage/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+    - text: Anubis
+      link: /notes/anubis/
+      icon: right-arrow
       variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Maps
+
+<CardGrid>
+	<Card title="Mirage" icon="star">
+		A-site executes, mid control, and smoke lineups for the classic.
+	</Card>
+	<Card title="Anubis" icon="star">
+		CT setups, B-site holds, and utility for the newer pick.
+	</Card>
+</CardGrid>
+
+## What's in here
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Smokes" icon="seti:shell">
+		One-way smokes, standard executes, and lineup screenshots.
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Molotovs & Flashes" icon="warning">
+		Pop flashes, retake molotovs, and boost lineups.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="CT Setups" icon="shield">
+		Default holds, aggressive peeks, and rotation timings.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="T Strats" icon="rocket">
+		Full executes, fakes, and eco round plays.
 	</Card>
 </CardGrid>
