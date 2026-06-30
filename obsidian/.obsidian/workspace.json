@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anubis/Demos & Notes/24-06-2026.md",
+                "file": "Anubis/Smokes/T Side Util.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-06-2026"
+              "title": "T Side Util"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "4cbeb43a5305f108",
   "lastOpenFiles": [
-    "Mirage/Smokes/test.md",
+    "202606~1.jpg",
+    "Anubis/Smokes/CT Side Util.md",
+    "Anubis/Smokes/T Side Util.md",
     "Anubis/Demos & Notes/24-06-2026.md",
+    "Mirage/Smokes/test.md",
     "Anubis/Anubis",
     "Anubis/Playbooks/Default.md",
     "index.html",
